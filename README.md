@@ -13,7 +13,7 @@
 
 1. Склонируйте проект к себе на компьютер из репозитория с помощью команды
 
-git clone 
+git clone https://github.com/dead-willow/pythonProject3
 
 2. Запустите интересующий файл
 
